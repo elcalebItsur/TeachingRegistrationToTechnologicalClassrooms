@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;1,100;1,200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+.App {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  background: ;
+}
+/*#1B396A  #5FBC18*/
+.Banner {
+  background-color: #1b396a;
+  padding: 0.5rem;
+  margin-bottom: 1.5rem;
+  border-radius: 18px;
+}
+
+#titulo {
+  color: white;
+  /*font-family: "Roboto", sans-serif;*/
+  font-family: "Montserrat", sans-serif;
+  margin-bottom: 1rem;
+  font-weight: 400;
+}
+
+#registroImage{
+  
+}
+
+#plsLogin {
+  color: black;
+  /*font-family: "Roboto", sans-serif;*/
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  font-style: oblique;
+}
+
+#datoDocent {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+
+.contenido {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 400px; /* Ajusta el ancho máximo del formulario según tus necesidades */
+  margin: 0 auto; /* Centra el contenido horizontalmente */
+}
+
+.formulario {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%; /* Ajusta el ancho del formulario */
+}
+
+#clavedocente {
+  margin-bottom: 1rem;
+  width: 100%; /* Ajusta el ancho del TextField */
+}
+
+.Button {
+  margin-top: 1rem;
+  width: 100%; /* Ajusta el ancho del Button */
+}
+
+p {
+  font-size: large;
+}
+/*#btn1 {
+  margin-left: 20px;
+}*/
+
+.selecciones {
+  margin: 0 20% 0 20%;
+}
+
+p {
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+}
+
+#slider {
+  margin: 0 20% 0 20%;
+}
